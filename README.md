@@ -1,5 +1,8 @@
 # 🎁 ChallengeAmigoSecreto
 Una aplicación web interactiva para realizar un sorteo de **Amigo Secreto** de manera fácil y divertida. Los usuarios pueden agregar nombres a una lista y luego sortear un amigo al azar. 🥳  
+
+![Captura de pantalla 2025-03-17 144932](https://github.com/user-attachments/assets/6783b772-422d-4988-9b69-5d0697388547)
+
 ![Captura de pantalla 2025-03-17 145043](https://github.com/user-attachments/assets/0d47c18e-2f6d-4cd0-9758-e895ceb7478c)
 
 
