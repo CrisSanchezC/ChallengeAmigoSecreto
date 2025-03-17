@@ -26,7 +26,7 @@ Una aplicación web interactiva para realizar un sorteo de **Amigo Secreto** de 
 ## 🎮 Cómo usar la aplicación  
 
 1️⃣ **Clona este repositorio** o descarga los archivos:  
-git clone 
+git clone https://github.com/CrisSanchezC/ChallengeAmigoSecreto.git
 
 2️⃣ **Abre el archivo** index.html en tu navegador.
 
@@ -39,8 +39,6 @@ git clone
 🔹 Agregar la opción de eliminar nombres de la lista.
 
 🔹 Permitir compartir el sorteo con amigos.
-
-🔹 Implementar un sistema de emparejamiento para asignaciones justas.
 
 ## 🤝 Contribución
 
